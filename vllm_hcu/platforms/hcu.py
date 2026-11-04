@@ -263,6 +263,7 @@ class HCUPlatform(Platform):
         "modelopt_mxfp8",
         "modelopt_mixed",
         "fp8_per_tensor",
+        "fp8_per_channel_w8a16",
         "fp8_per_block",
         "online",
         # "gpt_oss_mxfp4",
